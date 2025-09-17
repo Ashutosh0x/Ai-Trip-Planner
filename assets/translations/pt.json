@@ -1,0 +1,22 @@
+{
+  "app_title": "Planejador de viagens com IA",
+  "settings": {
+    "title": "Configurações",
+    "appearance": "Aparência",
+    "language_region": "Idioma e região",
+    "language": "Linguagem",
+    "region": "Região",
+    "currency": "Moeda",
+    "app_permissions": "Permissões do aplicativo",
+    "biometric_login": "Login biométrico",
+    "session_management": "Gerenciamento de Sessão",
+    "notifications": "Notificações",
+    "payments_subscriptions": "Pagamentos e Assinaturas"
+  },
+  "nav": {
+    "home": "Lar",
+    "explore": "Explorar",
+    "trips": "Viagens",
+    "profile": "Perfil"
+  }
+}

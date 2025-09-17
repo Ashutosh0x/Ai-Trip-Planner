@@ -1,0 +1,22 @@
+{
+  "app_title": "AI Trip Planner",
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "language_region": "Language & Region",
+    "language": "Language",
+    "region": "Region",
+    "currency": "Currency",
+    "app_permissions": "App Permissions",
+    "biometric_login": "Biometric Login",
+    "session_management": "Session Management",
+    "notifications": "Notifications",
+    "payments_subscriptions": "Payments & Subscriptions"
+  },
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "trips": "Trips",
+    "profile": "Profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "app_title": "KI-Reiseplaner",
+  "settings": {
+    "title": "Einstellungen",
+    "appearance": "Aussehen",
+    "language_region": "Sprache und Region",
+    "language": "Sprache",
+    "region": "Region",
+    "currency": "Währung",
+    "app_permissions": "App-Berechtigungen",
+    "biometric_login": "Biometrische Anmeldung",
+    "session_management": "Sitzungsverwaltung",
+    "notifications": "Benachrichtigungen",
+    "payments_subscriptions": "Zahlungen und Abonnements"
+  },
+  "nav": {
+    "home": "Heim",
+    "explore": "Erkunden",
+    "trips": "Reisen",
+    "profile": "Profil"
+  }
+}

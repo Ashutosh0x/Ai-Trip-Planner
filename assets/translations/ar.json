@@ -1,0 +1,22 @@
+{
+  "app_title": "مخطط رحلات الذكاء الاصطناعي",
+  "settings": {
+    "title": "إعدادات",
+    "appearance": "مظهر",
+    "language_region": "اللغة والمنطقة",
+    "language": "لغة",
+    "region": "منطقة",
+    "currency": "عملة",
+    "app_permissions": "أذونات التطبيق",
+    "biometric_login": "تسجيل الدخول البيومتري",
+    "session_management": "إدارة الجلسة",
+    "notifications": "إشعارات",
+    "payments_subscriptions": "المدفوعات والاشتراكات"
+  },
+  "nav": {
+    "home": "بيت",
+    "explore": "يستكشف",
+    "trips": "الرحلات",
+    "profile": "حساب تعريفي"
+  }
+}

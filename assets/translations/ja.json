@@ -1,0 +1,22 @@
+{
+  "app_title": "AI旅行プランナー",
+  "settings": {
+    "title": "設定",
+    "appearance": "外観",
+    "language_region": "言語と地域",
+    "language": "言語",
+    "region": "地域",
+    "currency": "通貨",
+    "app_permissions": "アプリの権限",
+    "biometric_login": "生体認証ログイン",
+    "session_management": "セッション管理",
+    "notifications": "通知",
+    "payments_subscriptions": "お支払いとサブスクリプション"
+  },
+  "nav": {
+    "home": "家",
+    "explore": "探検する",
+    "trips": "旅行",
+    "profile": "プロフィール"
+  }
+}

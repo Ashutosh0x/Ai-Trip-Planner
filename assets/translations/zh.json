@@ -1,0 +1,22 @@
+{
+  "app_title": "人工智能旅行规划师",
+  "settings": {
+    "title": "设置",
+    "appearance": "外貌",
+    "language_region": "语言和地区",
+    "language": "语言",
+    "region": "地区",
+    "currency": "货币",
+    "app_permissions": "应用程序权限",
+    "biometric_login": "生物识别登录",
+    "session_management": "会话管理",
+    "notifications": "通知",
+    "payments_subscriptions": "付款和订阅"
+  },
+  "nav": {
+    "home": "家",
+    "explore": "探索",
+    "trips": "旅行",
+    "profile": "轮廓"
+  }
+}

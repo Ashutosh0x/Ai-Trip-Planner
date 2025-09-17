@@ -1,0 +1,22 @@
+{
+  "app_title": "एआई ट्रिप प्लानर",
+  "settings": {
+    "title": "सेटिंग्स",
+    "appearance": "उपस्थिति",
+    "language_region": "भाषा और क्षेत्र",
+    "language": "भाषा",
+    "region": "क्षेत्र",
+    "currency": "मुद्रा",
+    "app_permissions": "ऐप अनुमतियाँ",
+    "biometric_login": "बायोमेट्रिक लॉगिन",
+    "session_management": "सत्र प्रबंधन",
+    "notifications": "सूचनाएं",
+    "payments_subscriptions": "भुगतान और सदस्यता"
+  },
+  "nav": {
+    "home": "घर",
+    "explore": "अन्वेषण करना",
+    "trips": "ट्रिप्स",
+    "profile": "प्रोफ़ाइल"
+  }
+}

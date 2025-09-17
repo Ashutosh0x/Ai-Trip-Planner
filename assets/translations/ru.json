@@ -1,0 +1,22 @@
+{
+  "app_title": "Планировщик поездок на базе ИИ",
+  "settings": {
+    "title": "Настройки",
+    "appearance": "Появление",
+    "language_region": "Язык и регион",
+    "language": "Язык",
+    "region": "Область",
+    "currency": "Валюта",
+    "app_permissions": "Разрешения приложения",
+    "biometric_login": "Биометрический вход",
+    "session_management": "Управление сеансом",
+    "notifications": "Уведомления",
+    "payments_subscriptions": "Платежи и подписки"
+  },
+  "nav": {
+    "home": "Дом",
+    "explore": "Исследовать",
+    "trips": "Поездки",
+    "profile": "Профиль"
+  }
+}
