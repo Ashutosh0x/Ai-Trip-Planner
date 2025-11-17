@@ -2,6 +2,8 @@
 
 <img width="1241" height="844" alt="image" src="https://github.com/user-attachments/assets/8e310b0d-ef73-482e-82bb-bb35a5baec00" />
 
+<img width="3118" height="2140" alt="image" src="https://github.com/user-attachments/assets/183d4819-8679-4a26-a3cb-9b36f368ee9d" />
+
 
 
 AI Trip Planner is a production-ready Flutter app that helps users plan and manage trips with an AI-assisted experience. It integrates Firebase (Auth, Firestore, Storage, Messaging), Stripe payments, Google Maps, voice input (speech_to_text), TTS, biometrics, secure storage, preferences, and localization.
